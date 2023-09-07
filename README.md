@@ -13,3 +13,8 @@ Persona de 31 años, apasionado por obtener valor de los datos, creativo.
 # Roberto
 
 Somos colaboradores de equipo - Me gusta el cereal
+
+<br>
+Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
+
+![](https://raw.githubusercontent.com/vcuspinera/UDG_MCD_Project_Dev_I/main/actividades/img/MCD_logo.png)
