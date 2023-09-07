@@ -2,7 +2,7 @@
 
 Persona de 31 años, apasionado por obtener valor de los datos, creativo.
 
-##Data gives you ....
+## Data gives you ....
 
 ![](https://media0.giphy.com/media/3o84sq21TxDH6PyYms/giphy.gif?cid=ecf05e4742bzm2iwhl0l1b70g72jqkhy70rz0cwxgmc0he68&ep=v1_gifs_search&rid=giphy.gif)
 
@@ -10,6 +10,6 @@ Persona de 31 años, apasionado por obtener valor de los datos, creativo.
 
 
 
-#Roberto
+# Roberto
 
 Somos colaboradores de equipo - Me gusta el cereal
